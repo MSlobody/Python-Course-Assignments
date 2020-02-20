@@ -1,4 +1,3 @@
-#Week 2 assig 2:
 import sqlite3
 import re
 
