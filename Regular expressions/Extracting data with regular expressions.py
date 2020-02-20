@@ -16,3 +16,4 @@ for entry in lst_of_strnumbers:
     numbers.append(int(entry))
 
 total_num = sum(numbers)
+print(total_num)
