@@ -2,6 +2,7 @@
 This repository contains assignments completed as part of a coursera course titled "Python for Everybody". 
 
 ## Topics covered in the course:
+- Data Structures and syntax
 - Regular expressions
 - Networks and Sockets
 - Web Services (XML and JSON)
