@@ -1,8 +1,5 @@
-# Python-Course-Assignments
-Independent assignments from Coursera - Python for Everybody
-
-## Content of Repository
-This repository contains assignments completed as part of a coursera course titled: Python for Everybody. 
+# Content of Repository
+This repository contains assignments completed as part of a coursera course titled "Python for Everybody". 
 
 ## Topics covered in the course:
 - Regular expressions
