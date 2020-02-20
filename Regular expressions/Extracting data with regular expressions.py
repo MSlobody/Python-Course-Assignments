@@ -1,5 +1,7 @@
 import re
 
+#extracting the numbers from the text file "regex_sum_322935.txt" and finding the sum of those values.
+
 handle = open("regex_sum_322935.txt")
 lst_of_strnumbers = []
 numbers = []
