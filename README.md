@@ -1,5 +1,5 @@
 # Content of Repository
-This repository contains assignments completed as part of a Coursera course titled "Python for Everybody". 
+This repository contains three assignments completed as part of a Coursera course titled "Python for Everybody". 
 
 ## Topics covered in the course:
 - Data Structures and syntax
